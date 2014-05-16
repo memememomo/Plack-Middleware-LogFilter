@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "modify log output.",
    "author" : [
       "Uchiko <memememomo@gmail.com>"
    ],
@@ -54,5 +54,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/memememomo/Plack-Middleware-LogFilter/issues"
+      },
+      "homepage" : "https://github.com/memememomo/Plack-Middleware-LogFilter",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/memememomo/Plack-Middleware-LogFilter.git",
+         "web" : "https://github.com/memememomo/Plack-Middleware-LogFilter"
+      }
+   },
    "version" : "0.01"
 }
